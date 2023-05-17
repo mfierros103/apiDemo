@@ -1,5 +1,7 @@
+![java CI](https://github.com/mfierros103/apiDemo/actions/workflows/apiDemo-build.yaml/badge.svg)
+
 API demo project
-================= (https://github.com/mfierros103/apiDemo/actions/workflows/apiDemo-build.yaml/badge.svg)
+================= 
 
 a demo project to be used to exemplify 
 the CI/CD process and other technologies 
@@ -13,4 +15,3 @@ at localhost:8080/greeting
 
 needs maven to run.
 
-Hello World
